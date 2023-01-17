@@ -16,9 +16,3 @@ Here are some ideas to get you started:
 -->
 ![visitor badge](https://komarev.com/ghpvc/?username=p-t-a-p-1&color=1417C9&style=for-the-badge)
 
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=p-t-a-p-1&count_private=true&theme=vue-dark&show_icons=true" />
-</a>
-
-
